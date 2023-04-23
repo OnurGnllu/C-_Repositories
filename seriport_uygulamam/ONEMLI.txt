@@ -1,0 +1,6 @@
+eğer ilk formdaki verileri sonraki formda bir labela atamak istiyorsak modify public yapilir.
+        public System.Windows.Forms.ListBox listBox1; (kod olarak uygulama kendi böyle ekliyor.)
+ancak ilk formdaki bir veri diğer tarafta label, combo vs kullanılmayıp bir değişken olarak tutulacak ise, sonraki formun .designer uzantısına
+        public string username;
+        public string password;
+        public string host; şeklinde tanımlanarak veri gönderilebilir.

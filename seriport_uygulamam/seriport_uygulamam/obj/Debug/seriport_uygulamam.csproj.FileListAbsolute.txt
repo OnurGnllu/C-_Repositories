@@ -1,0 +1,17 @@
+D:\Belgelerim\Visual Studio 2017\Projects\seriport_uygulamam\seriport_uygulamam\bin\Debug\seriport_uygulamam.exe.config
+D:\Belgelerim\Visual Studio 2017\Projects\seriport_uygulamam\seriport_uygulamam\bin\Debug\seriport_uygulamam.exe
+D:\Belgelerim\Visual Studio 2017\Projects\seriport_uygulamam\seriport_uygulamam\bin\Debug\seriport_uygulamam.pdb
+D:\Belgelerim\Visual Studio 2017\Projects\seriport_uygulamam\seriport_uygulamam\obj\Debug\seriport_uygulamam.csproj.AssemblyReference.cache
+D:\Belgelerim\Visual Studio 2017\Projects\seriport_uygulamam\seriport_uygulamam\obj\Debug\seriport_uygulamam.csproj.SuggestedBindingRedirects.cache
+D:\Belgelerim\Visual Studio 2017\Projects\seriport_uygulamam\seriport_uygulamam\obj\Debug\seriport_uygulamam.Form1.resources
+D:\Belgelerim\Visual Studio 2017\Projects\seriport_uygulamam\seriport_uygulamam\obj\Debug\seriport_uygulamam.Properties.Resources.resources
+D:\Belgelerim\Visual Studio 2017\Projects\seriport_uygulamam\seriport_uygulamam\obj\Debug\seriport_uygulamam.csproj.GenerateResource.cache
+D:\Belgelerim\Visual Studio 2017\Projects\seriport_uygulamam\seriport_uygulamam\obj\Debug\seriport_uygulamam.csproj.CoreCompileInputs.cache
+D:\Belgelerim\Visual Studio 2017\Projects\seriport_uygulamam\seriport_uygulamam\obj\Debug\seriport_uygulamam.exe
+D:\Belgelerim\Visual Studio 2017\Projects\seriport_uygulamam\seriport_uygulamam\obj\Debug\seriport_uygulamam.pdb
+D:\Belgelerim\Visual Studio 2017\Projects\seriport_uygulamam\seriport_uygulamam\bin\Debug\M2Mqtt.Net.dll
+D:\Belgelerim\Visual Studio 2017\Projects\seriport_uygulamam\seriport_uygulamam\bin\Debug\M2Mqtt.Net.pdb
+D:\Belgelerim\Visual Studio 2017\Projects\seriport_uygulamam\seriport_uygulamam\obj\Debug\seriport_uygulamam.seriportform.resources
+D:\Belgelerim\Visual Studio 2017\Projects\seriport_uygulamam\seriport_uygulamam\obj\Debug\seriport_uygulamam.csproj.CopyComplete
+D:\Belgelerim\Visual Studio 2017\Projects\seriport_uygulamam\seriport_uygulamam\obj\Debug\seriport_uygulamam.mqttform.resources
+D:\Belgelerim\Visual Studio 2017\Projects\seriport_uygulamam\seriport_uygulamam\obj\Debug\seriport_uygulamam.mqttform2.resources
